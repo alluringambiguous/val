@@ -1,0 +1,17 @@
+/* index.css */
+
+/* Apply styles to the root element */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  /* Apply flex styles to center child elements */
+  #root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
